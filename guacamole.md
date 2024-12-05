@@ -1,6 +1,6 @@
 #Guacamole
 ##Ingredients
-*avocado $400
-*lime $3
-*salt $20
+*avocado
+*lemon
+*salt
 ##Instructions
